@@ -1,0 +1,2 @@
+fastapi[standard]
+python-telegram-bot==13.4
